@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stekker is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://stekker.com/
+Stekker is a Dutch platform that enables electric vehicle owners to earn revenue by sharing the electricity used to charge their cars. Users register, their charging sessions are recorded as Energy Revenue Entitlements (EREs), which Stekker monetises and distributes the earnings. The service supports multiple charger brands, offers transparent pricing, and provides a dashboard for tracking earnings and usage.
+
+**Areas:** Energy · EV · Renewable · Marketplace · Netherlands
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://stekker.com/)
+- [Documentation](https://stekker.com/nl/over-stekker/)
+- [Support](https://stekker.com/nl/support/)
+- [Changelog](https://stekker.com/nl/changelog/)
+- [Blog](https://stekker.com/nl/blog/)
+- [GitHub](https://github.com/stekker)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/stekker/](https://apis.io/providers/stekker/).
